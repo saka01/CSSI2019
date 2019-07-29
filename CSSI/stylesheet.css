@@ -1,0 +1,37 @@
+
+
+h1{
+  width: 500px;
+  margin:auto;
+  color: Orange;
+}
+
+a{
+
+}
+
+ #lol-lol {
+  color: blue;
+}
+p.first-class
+{
+  color: green;
+}
+p.second-class
+{
+  color: yellow;
+}
+p{
+  color: black;
+}
+
+img{
+  height: 200px;
+  width: 300px;
+}
+ul{
+
+  border: 20px solid: black;
+  display: flex;
+  align-items: center;
+}
